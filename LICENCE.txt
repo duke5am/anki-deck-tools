@@ -1,0 +1,107 @@
+ANKI DECK GENERATOR + STUDY DECKS
+Licence, version 1.0
+
+Copyright (c) 2026 the pack author. All rights reserved except as granted below.
+
+
+1. WHAT YOU MAY DO
+
+You may, for your own personal study and for study within your own household:
+
+  a. use, copy and store this pack on any device you own;
+  b. run the generator and the linter on your own notes;
+  c. modify the source notes, the generator, the linter and the documentation,
+     and use your modified versions for your own personal study;
+  d. build decks for yourself from the source notes included in this pack, and
+     from your own notes, in any quantity;
+  e. print or export the documentation and the source notes for your own use.
+
+No attribution is required for your own personal, non-shared use.
+
+
+2. WHAT YOU MAY NOT DO
+
+  a. You may not resell, sublicense, rent, lend, redistribute or otherwise make
+     available this pack, the decks, the generator, the linter or the notes, in
+     whole or in part, whether or not you have modified them, and whether or not
+     you charge for them. This includes uploading them to file-sharing sites,
+     deck-sharing sites, forums, chat groups, cloud drives made public, or any
+     package, bundle, course or product offered to others.
+
+  b. You may not publish or share decks built from the source notes included in
+     this pack, or from the generator, as your own product, whether free or paid.
+
+  c. You may not use this pack, or material derived from it, to train, fine-tune
+     or otherwise build a machine-learning model that is distributed or offered
+     as a service to others.
+
+  d. You may not remove or alter this licence file, or the copyright notice in
+     the source files, in any copy you keep.
+
+  e. You may not present this pack, or the decks in it, as official material for
+     any certification programme, nor claim any affiliation with, endorsement by
+     or approval from any certification body, vendor, standards body or training
+     provider.
+
+Sharing is what point 2a is about, not what you learn. You are of course free to
+tell people what you learned from the decks, and to discuss individual cards.
+
+
+3. THE DECKS ARE ORIGINAL STUDY MATERIAL
+
+The decks in this pack were written for this pack. They are original study
+material. They are not official exam material.
+
+They are not affiliated with, endorsed by, sponsored by, or approved by any
+certification body, examination board, standards organisation, vendor or training
+provider. Any third-party names, specifications, standards or document numbers
+mentioned in a card are cited only to identify the source of a fact, and remain
+the property of their respective owners.
+
+Certification exam objectives, question formats and the emphasis of a syllabus
+change over time, and they differ between programmes. The objectives published
+for the exam you are sitting are always the authority on what that exam covers.
+Check them. This pack is practice material for the underlying subject matter, and
+nothing more.
+
+
+4. SOURCES AND ACCURACY
+
+Every card in the shipped decks carries a source on its answer side. That source
+names the specification, standard, manual or documented behaviour the fact came
+from, so that any card can be checked.
+
+The facts were written with care, but no warranty of accuracy is given, and none
+should be assumed. Specifications are revised, products change, and a fact that
+was correct when written may not be correct when you read it. Where a behaviour
+is specific to a version or to a particular product, the card says so; where the
+topic is contested or version-dependent, the card either avoids it or notes the
+disagreement.
+
+You are responsible for verifying anything you will be examined on or will rely
+on in your work. The source field exists precisely so that you can.
+
+
+5. LIMITATION OF LIABILITY
+
+This pack is provided "as is", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a
+particular purpose, accuracy and non-infringement.
+
+In no event shall the author be liable for any claim, damages or other liability,
+whether in an action of contract, tort or otherwise, arising from, out of or in
+connection with this pack or its use. This includes, without limitation, exam
+results, study outcomes, data loss, or any consequence of a card that turns out
+to be wrong, out of date or misleading.
+
+Nothing in this licence limits any rights you have under mandatory consumer law
+in your jurisdiction, including any right to a refund from the retailer through
+which you bought this pack.
+
+
+6. NO GUARANTEE OF RESULTS
+
+Using spaced repetition is a study method, not a promise. Nothing in this pack
+should be read as a claim about examination results, pass rates, retention,
+recall or time saved. Whether a study method works for you depends on how you
+use it and how much of it you do.
