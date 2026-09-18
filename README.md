@@ -82,3 +82,5 @@ Original study material, **not official certification material**, and not
 affiliated with or endorsed by any certification body. Always check the official
 exam objectives. Cards are only as good as their source — verify anything that
 matters. And spaced repetition only works if you actually do it.
+
+→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
